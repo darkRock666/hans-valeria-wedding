@@ -1,0 +1,32 @@
+# Publicar el código fuente; Vercel instala y compila.
+node_modules/
+.next/
+out/
+.npm-cache/
+.vercel/
+.git/
+
+# Entorno local, claves y material privado.
+.env*
+.dev.vars*
+*.pem
+*.key
+private/
+.private/
+
+# Pruebas, integración de Apps Script y artefactos locales.
+tests/
+google-apps-script/
+.sites-runtime/
+outputs/
+work/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+*.xlsx
+*.inspect.ndjson
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.DS_Store

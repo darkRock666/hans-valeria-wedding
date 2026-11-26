@@ -1,0 +1,31 @@
+HANS & VALERIA — CONFIRMACIONES DE LA BODA
+
+Invitación para compartir: https://hans-valeria.vercel.app
+Panel privado: https://hans-valeria.vercel.app/invitados
+
+Para consultar las respuestas:
+1. Abre /invitados dentro del sitio de la invitación.
+2. Introduce la contraseña personal del panel que configuró el propietario.
+3. Consulta la lista de respuestas o descarga el CSV.
+
+También puedes abrir la hoja privada con una cuenta de Google autorizada:
+https://docs.google.com/spreadsheets/d/TU_SPREADSHEET_ID/edit
+
+La hoja debe conservar una pestaña llamada Confirmaciones y los encabezados:
+ID | Nombre | Asistencia | Mensaje | Fecha UTC
+
+No cambies los encabezados, el orden de columnas, el ID, los valores yes/no de
+Asistencia ni las fechas. No agregues filas de títulos, notas o totales dentro
+de la lista. La web pregunta por asistencia individual; no pide cantidad de
+acompañantes.
+
+El invitado verá ¡Confirmado! cuando su asistencia se haya guardado. Si indica
+que no asistirá, verá Respuesta registrada. Si falla el envío, podrá reintentar.
+
+El botón Enviar también por WhatsApp abre el mensaje. El invitado debe tocar
+Enviar en WhatsApp; el sitio no envía mensajes automáticamente.
+
+La hoja y la contraseña del panel son personales. No publiques la hoja ni
+compartas la contraseña con los invitados.
+
+La instalación y las variables del servidor se explican en README.md.
