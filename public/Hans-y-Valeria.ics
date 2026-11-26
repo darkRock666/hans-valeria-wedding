@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hans y Valeria//Nuestra boda//ES
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:hans-valeria-20261226@invitacion
+DTSTAMP:20261124T160000Z
+DTSTART:20261226T200000Z
+SUMMARY:Boda de Hans y Valeria
+LOCATION:Tu Spazio - Salón & Jardín de Eventos\, C. 6 127\, La Paz\, Bo
+ livia
+DESCRIPTION:Sábado 26 de diciembre de 2026 a las 4:00 p. m. (hora de La 
+ Paz).
+URL:https://maps.app.goo.gl/UnmmoXjr3qRvyS9n8
+END:VEVENT
+END:VCALENDAR
