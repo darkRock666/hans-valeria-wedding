@@ -1,0 +1,8 @@
+.dress-code-section{background:var(--blush);padding:72px 28px;color:var(--navy)}
+.dress-code-card{max-width:780px;margin:auto;padding:42px clamp(24px,5vw,64px);text-align:center;border:1px solid #a87b6b99;outline:1px solid #a87b6b55;outline-offset:7px;background:#f7f5efb3}
+.dress-code-floral{width:37px;height:43px;margin:0 auto 20px;color:#966d5e}
+.dress-code-card .eyebrow{color:#75594f;font-size:12px}
+.dress-code-card h2{font-family:var(--serif);font-size:clamp(36px,4.6vw,55px);font-weight:500;line-height:1.12;margin:18px 0 22px;color:var(--slate)}
+.dress-code-card h2 em{display:block;font-weight:400;color:#835f51}
+.dress-code-card>p:last-child{font-size:16px;line-height:1.95;max-width:600px;margin:24px auto 0;color:#514957;text-wrap:pretty}
+@media(max-width:760px){.dress-code-section{padding:54px 27px}.dress-code-card{padding:31px 22px}.dress-code-card>p:last-child{line-height:1.85}}
